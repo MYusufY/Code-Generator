@@ -17,6 +17,14 @@ Some bugs were fixed.
 But this is not stable version. I will update the app GUI, installation GUI etc. in next versions.
 If there are more bugs or an problem, please report it.
 
+**--------------------UPDATE 2.0.7--------------------**
+IMPORTANT UPDATE!
+A major bug that prevented the program from running has been fixed.
+But i cant add the update to the Repo cause its a bit large and i dont have Github LFS.
+I will give the Google Drive Link instead:
+
+[Update Link](https://drive.google.com/file/d/1vfrDosoW6eSPWlyem6yOwSsibThy2geV/view?usp=sharing
+)
 
 To generate an API key, go to your OpenAI account and click on the “API Keys” tab. 
 From there, click on the “Create new secret key” button.
