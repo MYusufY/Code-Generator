@@ -1,4 +1,10 @@
 # Code-Generator
+
+**EDIT**
+2.0.6 AND OLD VERSIONS DO NOT WORK, 
+BUT THE NEW VERSIONS ARE LARGE TO EXCEED THE LIMIT OF GITHUB. 
+YOU CAN DOWNLOAD THE LATEST VERSION (2.0.7) FROM THE GOOGLE DRIVE LINK BELOW.
+
 Code Generator App For MacOS, Uses GPT3 To Generate Code.
 
 This app is under development. For now, it only supports MacOS. It tested on Intel, MacOS 12+.
