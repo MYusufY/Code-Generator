@@ -5,7 +5,7 @@ This app is under development. For now, it only supports MacOS. It tested on Int
 
 May there is still some bugs in program. Please report if there is an issue. I will try to fix it.
 
-
+![Screenshot of Program](https://github.com/MYusufY/Code-Generator/blob/main/Screenshot.png?raw=true)
 
 It developed with Python. 
 
