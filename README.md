@@ -1,3 +1,12 @@
+# Support the developer
+Im an developer and student, i need some support. Not for only this project.
+This is one of my thousands of projects i made for helping people and may getting some supports on my other big projects.
+(I cant share all my projects in GitHub for some reasons)
+
+If you can support me, I will be highly motivated for all exams, projects and other stuff!
+You can support me here: https://www.buymeacoffee.com/myusuf
+Thanks if you support me :)
+
 # Code-Generator
 
 **EDIT**
