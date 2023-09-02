@@ -5,7 +5,7 @@ This is one of my thousands of projects i made for helping people and may gettin
 
 If you can support me, I will be highly motivated for all exams, projects and other stuff!
 You can support me here: https://www.buymeacoffee.com/myusuf
-Thanks if you support me :)
+Thanks if you support me or use my programs :)
 
 # Code-Generator
 
