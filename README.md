@@ -1,4 +1,4 @@
-![Program](https://github.com/MYusufY/Code-Generator/blob/main/code-generator.png?raw=true)
+![Program](https://github.com/MYusufY/Code-Generator/blob/main/code_generator.png?raw=true)
 
 # Support the developer
 Im an developer and student, i need some support. Not for only this project.
